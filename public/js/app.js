@@ -1,4 +1,3 @@
-console.log('client side is loading...')
 
 //client side javascript --- using fetch api
 
